@@ -1,1 +1,1 @@
-# class1-MySQL
+# MySQL first class
